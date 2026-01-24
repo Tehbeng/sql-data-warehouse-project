@@ -39,4 +39,4 @@ This Project is licensed under [MIT License](LICENSE). Feel free to use,modify a
 
 ## Credit
 
-This whole project credited to Data with Bara professional IT and Youtuber. With his guidance I'm able to create this project.
+This whole project credited to Data with Bara. With his guidance I'm able to create this project.
